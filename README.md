@@ -1,0 +1,3 @@
+# PythonToArduino
+使用Python的pySerial模組進行序列通訊
+連接電腦與Arduino
